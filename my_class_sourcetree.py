@@ -3,3 +3,4 @@ class My_class():
        print('method')
 x=My_class()
 x.my_method()
+y=My_class()
